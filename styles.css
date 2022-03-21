@@ -1,0 +1,19 @@
+a:link, a:visited {
+    color: black;
+    text-decoration: none;
+  }
+div#top{
+    background-color: rgb(245, 202, 150);
+}
+div#left{
+    background-color: bisque;
+    padding-top: 2rem;
+}
+
+img#dp{
+    border-radius: 50%;
+}
+.underlinne{
+    border-bottom: 0.2rem solid black;
+    background-color: rgba(92, 76, 6, 0.3);
+}
